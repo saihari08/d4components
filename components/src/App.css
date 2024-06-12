@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.playerdiv{
+  background-color: yellow;
+  border: 10px solid blue;
+  width: 250px;
+  border-radius: 30px;
+  color: blue;
+  box-shadow: 10px 10px 10px grey;
+  margin: 10px;
+  display: inline-block;
+}
+
+.playerpic{
+  width: 250px;
+  
+}
